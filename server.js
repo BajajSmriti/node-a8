@@ -25,6 +25,6 @@ require('./services/movies-service')(app);
 require('./services/posts-service')(app);
 require('./services/profile-service')(app);
 
-console.info("Listening to port 4000");
-app.listen(process.env.PORT || 4000);
+console.info("Listening to port 5000");
+app.listen(process.env.PORT || 5000);
 
