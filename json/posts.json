@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "userName": "Elon Musk",
+        "userImage": "https://media.wired.com/photos/5ed2b8129948303154121fe5/master/pass/Science_SpaceX-Launch-AP_20151700829737.jpg",
+        "handle": "elonmusk",
+        "time": "23h",
+        "title": "Amazing show about #B@inspiration4x#B mission!",
+        "image": "https://cdn.mos.cms.futurecdn.net/fw5Jv3kTVpuEwTBcWyMVg6.jpg",
+        "desc1": "Countdown: Inspiration4 Mission to Space | Netflix Official Site",
+        "desc2": "The Hatch Act, a law that prevents federal employees from engaging in some political activities while they are working in an official capacity, is discussed following comments by former press secretary Kayleigh McEnany regarding a White House...",
+        "link": "netflix.com",
+        "comments": 1200,
+        "retweets": 2500,
+        "likes": 4
+    },
+    {
+        "id":2,
+        "userName": "New York Post",
+        "userImage": "https://variety.com/wp-content/uploads/2020/10/New-York-Post-Twitter.png",
+        "handle": "nypost",
+        "title": "Grimes seen reading Karl Marx following split with world's richest man Elon Musk #Btnb.ai/nx@GafQN#B",
+        "time": "23h",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2021/10/grimes-05.jpg?quality=90&strip=all",
+        "desc1": "",
+        "desc2": "",
+        "link": "",
+        "comments": 12000,
+        "retweets": 3400,
+        "likes": 37500
+    }
+]

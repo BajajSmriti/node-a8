@@ -1,4 +1,4 @@
-const profileData = require('../../Practice/ReduxExamples/reducers/data/profileData.json');
+const profileData = require('../json/profileData.json');
 
 module.exports = (app) => {
 

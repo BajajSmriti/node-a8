@@ -1,4 +1,4 @@
-const postJson = require('../../Practice/ReduxExamples/reducers/data/posts.json');
+const postJson = require('../json/posts.json');
 
 module.exports = (app) => {
 
